@@ -5,7 +5,7 @@ import org.junit.Test;
 import static junit.framework.Assert.*;
 
 /**
- * Created by Jakub Czyszczonik on 11.10.2017.
+ * Created by Jakub Czyszczonik on 11.10.2017. konflikt2
  */
 public class DeckTest {
     private Deck deck;
